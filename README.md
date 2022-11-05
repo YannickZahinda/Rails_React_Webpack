@@ -33,6 +33,12 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 `bundle install && npm install to install all dependencies`
 
+`rails db:create db:migrate`
+
+### Run on browser
+
+``rails server``
+
 👤 **Yannick Zahinda**
 
 - GitHub: [@YannickZahinda](https://github.com/YannickZahinda)
