@@ -11,6 +11,9 @@
 - Major languages: Ruby, JavaScript
 - Frameworks: Ruaby On Rails
 
+## Link to frontend
+[link to frontend](https://github.com/YannickZahinda/React-Rails)
+
 
 ## Live Demo (if available)
 
