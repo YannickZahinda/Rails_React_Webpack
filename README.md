@@ -1,24 +1,57 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails React
 
-Things you may want to cover:
+> This is a simple project practicing the use of rails and React with Webpack.
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+- Major languages: Ruby, JavaScript
+- Frameworks: Ruaby On Rails
 
-* Database creation
 
-* Database initialization
+## Live Demo (if available)
 
-* How to run the test suite
+[Live Demo Link](https://livedemo.com)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Getting Started
 
-* ...
+**This is an example of how you may give instructions on setting up your project locally.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+
+### Setup
+
+`git clone https://github.com/YannickZahinda/Rails_React_Webpack.git`
+
+`cd Rails_React_Webpack`
+
+### Install
+`bundle install && npm install to install all dependencies`
+
+👤 **Yannick Zahinda**
+
+- GitHub: [@YannickZahinda](https://github.com/YannickZahinda)
+- Twitter: [@twitterhandle](https://twitter.com/ZahindaY)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Yannickmulikuza/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
